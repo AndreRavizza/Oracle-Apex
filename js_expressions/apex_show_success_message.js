@@ -1,0 +1,1 @@
+apex.message.showPageSuccess('Salvo!');
